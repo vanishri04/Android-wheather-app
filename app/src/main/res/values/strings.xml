@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_title">Weather App</string>
+    <string name="city_hint">Enter city name</string>
+    <string name="search_weather">Search Weather</string>
+    <string name="search_city">Search for a city</string>
+    <string name="temperature_placeholder">-- °C</string>
+    <string name="weather_condition">Weather condition</string>
+    <string name="humidity_placeholder">Humidity: --%</string>
+    <string name="wind_placeholder">Wind: -- km/h</string>
+</resources>
+
